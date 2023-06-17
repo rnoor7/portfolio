@@ -26,10 +26,7 @@ const Project = () => {
                                     <h1 className="title-font text-xl font-medium text-gray-900 mb-3">
                                         To Do List
                                     </h1>
-                                    <p className="leading-relaxed">
-                                        Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                                        microdosing tousled waistcoat.
-                                    </p>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -48,10 +45,7 @@ const Project = () => {
                                     <h1 className="title-font text-xl font-medium text-gray-900 mb-3">
                                         Budget Tracking
                                     </h1>
-                                    <p className="leading-relaxed">
-                                        Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                                        microdosing tousled waistcoat.
-                                    </p>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -70,10 +64,7 @@ const Project = () => {
                                     <h1 className="title-font text-xl font-medium text-gray-900 mb-3">
                                         Portfolio
                                     </h1>
-                                    <p className="leading-relaxed">
-                                        Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                                        microdosing tousled waistcoat.
-                                    </p>
+                                    
                                 </div>
                             </div>
                         </div>
